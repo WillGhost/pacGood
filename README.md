@@ -2,7 +2,7 @@
 gfwlist不好用，我基于网络上的列表修改了一个适用自己的规则。
 # 脚本介绍
 域名文件存于`data`目录 有以下2种生成方式
-- `v2ray_domain_list.go`生成`dlc.dat`用于v2ray（从 https://github.com/v2ray/domain-list-community 复制）
+- `v2ray_domain_list.go`生成`dlc.dat`用于v2ray（从 https://github.com/v2fly/domain-list-community 复制）
 - `make_pac_text.go`生成`pac.txt`
 # 分流策略
 ### 策略
