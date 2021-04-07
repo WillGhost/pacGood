@@ -154,6 +154,7 @@ payload:
   - '+.botanwang.com'
   - '+.box.net'
   - '+.boxun.com'
+  - '+.tlanyan.me'
   - '+.break.com'
   - '+.briefdream.com'
   - '+.brightcove.com'
