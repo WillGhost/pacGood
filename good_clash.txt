@@ -829,6 +829,7 @@ payload:
   - '+.pay888.xyz'
   - '+.paypal.com'
   - '+.paypalobjects.com'
+  - '+.pays66.com'
   - '+.pdproxy.com'
   - '+.peacehall.com'
   - '+.peeasian.com'
