@@ -481,6 +481,7 @@ payload:
   - '+.googleusercontent.com'
   - '+.googlevideo.com'
   - '+.gopetition.com'
+  - '+.gorm.io'
   - '+.gospelherald.com'
   - '+.gotoapp3.com'
   - '+.gpass1.com'
