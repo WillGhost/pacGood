@@ -56,6 +56,7 @@ payload:
   - '+.allinfa.com'
   - '+.allinfo.com'
   - '+.allmovie.com'
+  - '+.allwaysync.com'
   - '+.alternate-tools.com'
   - '+.alvinalexander.com'
   - '+.alwaysdata.com'
