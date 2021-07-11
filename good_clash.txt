@@ -456,6 +456,7 @@ payload:
   - '+.github.com'
   - '+.githubapp.com'
   - '+.githubusercontent.com'
+  - '+.gitmemory.com'
   - '+.givemesomethingtoread.com'
   - '+.glennhilton.com'
   - '+.globaljihad.net'

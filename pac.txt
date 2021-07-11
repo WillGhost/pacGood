@@ -466,6 +466,7 @@ var domains = {
   "github.com": 1,
   "githubapp.com": 1,
   "githubusercontent.com": 1,
+  "gitmemory.com": 1,
   "givemesomethingtoread.com": 1,
   "glennhilton.com": 1,
   "globaljihad.net": 1,
