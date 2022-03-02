@@ -241,6 +241,7 @@ var domains = {
   "codeboxapp.com": 1,
   "codeplex.com": 1,
   "coinbase.com": 1,
+  "coinmarketcap.com": 1,
   "collateralmurder.com": 1,
   "comedycentral.com": 1,
   "comefromchina.com": 1,
