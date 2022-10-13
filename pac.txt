@@ -446,6 +446,7 @@ var domains = {
   "frommel.net": 1,
   "fsdn.com": 1,
   "fsurf.com": 1,
+  "ftx.com": 1,
   "fullstory.com": 1,
   "fulue.com": 1,
   "funkyimg.com": 1,
